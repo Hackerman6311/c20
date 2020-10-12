@@ -1,2 +1,2 @@
-# c20
-look at da mankey
+# p5.play-boilerplate
+Boiler plate for p5.play
